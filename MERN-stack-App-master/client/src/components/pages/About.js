@@ -8,7 +8,6 @@ function About() {
         <li>
           This app is made with the MERN stack(MongoDB, Express, React, Node){' '}
         </li>
-        <li>Author : Vibhor Rana</li>
       </p>
     </div>
   );
